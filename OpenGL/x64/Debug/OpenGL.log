@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Uporabnik\Desktop\Arhiv\OpenGL\OpenGL 0.2.6\OpenGL\src\Trident.h(174,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  OpenGL.vcxproj -> C:\Users\Uporabnik\Desktop\Arhiv\OpenGL\OpenGL 0.2.6\x64\Debug\OpenGL.exe
